@@ -1,0 +1,6 @@
+ollama==0.6.3
+chromadb==1.5.9
+pypdf==7.0.0
+python-dotenv==1.2.4
+openai==3.46.0
+streamlit==1.67.0
